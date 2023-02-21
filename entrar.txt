@@ -1,0 +1,8 @@
+Olá meu nome é gabriel vitor moraes
+
+Olá eu sou uma nova linha
+
+login:
+senha:
+idade:
+genero:
